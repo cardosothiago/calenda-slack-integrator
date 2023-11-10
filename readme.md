@@ -8,7 +8,7 @@ Hoje a dificuldade de comunicação é uma problema não somente na companhia on
 
 ## Objetivo:
 
-disponibilidade ou não naquele momento do dia, seja ele qual for, para qualquer usuário da organização. Com a conexão com o Google Calendar, disponível no app, é possível sincronizar automaticamente qualquer agenda criada durante o dia, o app automaticamente define o status como “indisponível” e informa que o usuário está ocupado em reunião, permitindo que o usuário foque em sua reunião e não sofra interrupções. Além disso é possível definir de forma prática horários de trabalho, almoço e tempo de foco, que são atualizado em tempo no Slack.
+Disponibilidade ou não naquele momento do dia, seja ele qual for, para qualquer usuário da organização. Com a conexão com o Google Calendar, disponível no app, é possível sincronizar automaticamente qualquer agenda criada durante o dia, o app automaticamente define o status como “indisponível” e informa que o usuário está ocupado em reunião, permitindo que o usuário foque em sua reunião e não sofra interrupções. Além disso é possível definir de forma prática horários de trabalho, almoço e tempo de foco, que são atualizado em tempo no Slack.
 
 
 ## Requisitos:
